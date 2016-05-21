@@ -1,4 +1,4 @@
-this demo from the seed of   Angular 2 QuickStart Source
+this demo is starting from the seed project refered in the  [Angular 2 QuickStart Source.](https://angular.io/docs/ts/latest/quickstart.html) and written by TypeScript.
 
-usage please refer to   [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html)
+demo usage please refer to the quickstart page. 
  
